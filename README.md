@@ -3,13 +3,13 @@
 # Can we predict the audience for the next few days?
 
 
-Description
+### Description
 In this project, I want to understand the features that impact the traffic and the audience of the food website in order to be able to predict the audience in the next few days.
 
 Country : France
 Factors chosen : region, Contents_avg_past_2days, evol_content_past_2days, evol_number_users_2days, dayofweek, avg_number_users_2days, avg_ratings, avg_cooking_time, recipe_difficulty, Température, Précipitations, device, cost, bank_holiday, day of week, recipe_media
 
-Workflow
+### Workflow
 My project can be divided into different phases :
 
 Phase 1 : Looking for a dataset
